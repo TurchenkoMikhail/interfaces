@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1630756199 source:e:\student\5030102-90401\first_interface\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1634322576 source:c:\prog\1\main.c
+	"header.h"
+
+1634321480 c:\prog\1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1634155493 c:\prog\1\mymenu.h
+
+1634155111 source:c:\prog\1\mymenu.rc
+	"mymenu.h"
+
+1634321473 source:c:\prog\1\scroll.c
+	"header.h"
+
+1634842506 source:c:\users\vbif-\desktop\4\reader\main.c
+	"header.h"
+
+1634842312 c:\users\vbif-\desktop\4\reader\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1634155494 c:\users\vbif-\desktop\4\reader\mymenu.h
+
+1634155112 source:c:\users\vbif-\desktop\4\reader\mymenu.rc
+	"mymenu.h"
+
+1634843109 source:c:\users\vbif-\desktop\4\reader\scroll.c
+	"header.h"
+
+1634155112 source:c:\prog\6\reader\mymenu.rc
+	"mymenu.h"
+
+1634155494 c:\prog\6\reader\mymenu.h
+
+1636564325 source:c:\prog\6\reader\scroll.c
+	"header.h"
+
+1636565260 c:\prog\6\reader\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1636565480 source:c:\prog\6\reader\main.c
+	"header.h"
+
+1634155112 source:c:\prog\7\reader\mymenu.rc
+	"mymenu.h"
+
+1634155494 c:\prog\7\reader\mymenu.h
+
+1637255629 source:c:\prog\7\reader\scroll.c
+	"header.h"
+
+1637258951 c:\prog\7\reader\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1637343692 source:c:\prog\7\reader\main.c
+	"header.h"
+
+1637397554 source:d:\student\5030102_90101\turchenko\reader\main.c
+	"header.h"
+
+1637258952 d:\student\5030102_90101\turchenko\reader\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1634155494 d:\student\5030102_90101\turchenko\reader\mymenu.h
+
+1634155112 source:d:\student\5030102_90101\turchenko\reader\mymenu.rc
+	"mymenu.h"
+
+1637348328 source:d:\student\5030102_90101\turchenko\reader\scroll.c
+	"header.h"
+
+1637406417 source:d:\student\5030102_90101\9\reader\main.c
+	"header.h"
+
+1637406294 d:\student\5030102_90101\9\reader\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1634155494 d:\student\5030102_90101\9\reader\mymenu.h
+
+1634155112 source:d:\student\5030102_90101\9\reader\mymenu.rc
+	"mymenu.h"
+
+1637406309 source:d:\student\5030102_90101\9\reader\scroll.c
+	"header.h"
+
+1638020667 source:d:\student\turchenko\turchenko_textreader_1gr\main.c
+	"header.h"
+
+1637406296 d:\student\turchenko\turchenko_textreader_1gr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1634155494 d:\student\turchenko\turchenko_textreader_1gr\mymenu.h
+
+1634155112 source:d:\student\turchenko\turchenko_textreader_1gr\mymenu.rc
+	"mymenu.h"
+
+1637406310 source:d:\student\turchenko\turchenko_textreader_1gr\scroll.c
+	"header.h"
+
+1638020668 source:h:\turchenko_textreader_1gr\main.c
+	"header.h"
+
+1637406296 h:\turchenko_textreader_1gr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<limits.h>
+	"mymenu.h"
+
+1634155494 h:\turchenko_textreader_1gr\mymenu.h
+
+1634155112 source:h:\turchenko_textreader_1gr\mymenu.rc
+	"mymenu.h"
+
+1637406310 source:h:\turchenko_textreader_1gr\scroll.c
+	"header.h"
+
